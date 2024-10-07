@@ -29,7 +29,7 @@ I also closely collaborate with my colleagues to work on Age of Information (AoI
 
 ## Journals Papers
 
-- **[J14]** **S. Li**, N. Jiang, Y. Chen, W. Xie, W. Lou, and Y. T. Hou, ``MU-MIMO Beamforming with Limited Channel Data Samples,'' to appear in \textit{IEEE Journal on Selected Areas in Communications}, 2024
+- **[J14]** **S. Li**, N. Jiang, Y. Chen, W. Xie, W. Lou, and Y. T. Hou, "[MU-MIMO Beamforming with Limited Channel Data Samples](https://ieeexplore.ieee.org/abstract/document/10605779)," *IEEE Journal on Selected Areas in Communications*, Early Access, July 2024
 
 - **[J13]** N. Jai, Y. Shi, **S. Li**, C. Li, Y. T. Hou, W. Lou, J. H. Reed, M. Olfat, S. Kompella, and L. DaSilva, "[Modeling and Optimization of Channel Allocation for PAL and GAA Users in the CBRS Band](https://ieeexplore.ieee.org/document/10261235)," *IEEE Transactions on Cognitive Communications and Networking*, vol. 10, no. 1, pp. 1--20, Feb. 2024
 
