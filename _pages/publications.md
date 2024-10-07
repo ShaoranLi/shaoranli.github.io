@@ -59,13 +59,15 @@ I also closely collaborate with my colleagues to work on Age of Information (AoI
 
 ## Conference Papers
 
-- **[C16]** **S. Li**, N. Jiang, C. Li, Y. T. Hou, W. Lou, and W. Xie, ``ReDBeam: Real-time MU-MIMO Beamforming with Limited CSI Data Samples," to appear in *Proc. IEEE ICC*, June 2024
+- **[C16]** **S. Li**, N. Jiang, C. Li, Y. T. Hou, W. Lou, and W. Xie, ``ReDBeam: Real-time MU-MIMO Beamforming with Limited CSI Data Samples," in *Proc. IEEE ICC, pp. 5104–5110*, Denver, CO, USA, June 09–13, 2024. [Erratum](https://shaoranli.github.io/files/Erratum_ReDBeam_ICC2024.pdf)
+
 
 - **[C15]** S. Acharya, **S. Li**, N. Jiang, Y. Wu, Y. T. Hou, W. Lou, and W. Xie, "[Mitra: An O-RAN based Real-Time Solution for Coexistence between General and Priority Users in CBRS](https://ieeexplore.ieee.org/document/10228973)," *Proc. IEEE MASS, pp. 295-303*, Toronto, Canada, Sept. 2023
 
 - **[C14]** C. Li, **S. Li**, Q. Liu, Y. T. Hou, W. Lou, and S. Kompella, "[Eywa: A General Approach for Scheduler Design in AoI Optimization](https://ieeexplore.ieee.org/document/10228973)," in *Proc. IEEE INFOCOM, pp. 1-9*, Virtual Conference, May 2023
 
-- **[C13]** **S. Li**, N. Jiang, Y. Chen, Y. T. Hou, W. Lou, and W. Xie, "[D$^2$BF--Data-Driven Beamforming in MU-MIMO with Channel Uncertainty](https://ieeexplore.ieee.org/document/9796930)," in *Proc. IEEE INFOCOM, pp. 120-129*,  Virtual Conference, May 2022
+- **[C13]** **S. Li**, N. Jiang, Y. Chen, Y. T. Hou, W. Lou, and W. Xie, "[D$^2$BF--Data-Driven Beamforming in MU-MIMO with Channel Uncertainty](https://ieeexplore.ieee.org/document/9796930)," in *Proc. IEEE INFOCOM, pp. 120-129*,  Virtual Conference, May 2022. [Erratum](https://shaoranli.github.io/files/Erratum_D2BF_INFOCOM2022.pdf)
+
 
 - **[C12]** N. Jai, **S. Li**, C. Li, Y. T. Hou, and W. Lou, "[Optimal Channel Allocation in the CBRS Band with Shipborne Radar Incumbents](https://ieeexplore.ieee.org/document/9677308),”* in *Proc IEEE DySBAN, pp. 80-88*, Virtual Conference, Dec. 2021 **Best Paper Award Runner-up**
 
